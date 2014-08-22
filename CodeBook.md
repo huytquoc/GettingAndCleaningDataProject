@@ -21,7 +21,7 @@ Raw data used for the transformations:
 
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
-Version 1.0
+## Version 1.0
 ==================================================================
 Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
 Smartlab - Non Linear Complex Systems Laboratory
@@ -37,7 +37,7 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 ## The data
 
-For each record it is provided:
+## For each record it is provided:
 ======================================
 
 - Triaxial acceleration from the accelerometer (total acceleration) and the estimated body acceleration.
@@ -46,7 +46,7 @@ For each record it is provided:
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
 
-The dataset includes the following files:
+## The dataset includes the following files:
 =========================================
 
 - 'README.txt'
@@ -75,14 +75,14 @@ The following files are available for the train and test data. Their description
 
 - 'train/Inertial Signals/body_gyro_x_train.txt': The angular velocity vector measured by the gyroscope for each window sample. The units are radians/second. 
 
-Notes: 
+## Notes: 
 ======
 - Features are normalized and bounded within [-1,1].
 - Each feature vector is a row on the text file.
 
 For more information about this dataset contact: activityrecognition@smartlab.ws
 
-License:
+## License:
 ========
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
 
